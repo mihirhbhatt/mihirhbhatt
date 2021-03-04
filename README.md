@@ -1,6 +1,6 @@
 ### Hi there, I am Mihir Bhatt 👋
 
-# *I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.I thrive in an environment where I can automate the boundaries of the applications but also contribute to the DevOps process and procedure to ensure quality.*
+*I'm a Devops/Cloud engineer enthusiast with a knack for Automation and a proven track record in maintaining and administering DevOps process.I thrive in an environment where I can automate the boundaries of the applications but also contribute to the DevOps process and procedure to ensure quality.*
 
 
 - 🔭 I’m currently working on Creating Devops related tech resourses
