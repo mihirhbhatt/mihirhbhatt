@@ -2,7 +2,9 @@
 ### Hi there, I am Mihir Bhatt 👋
 
 
- *I'm a Devops/Cloud engineer enthusiast with a knack for Automation and a proven track record in maintaining and administering DevOps process.I thrive in an environment where I can automate the boundaries of the applications but also contribute to the DevOps process and procedure to ensure quality.*
+<p>I'm a DevSecOps/Cloud Security Engineer with expertise in building secure-by-design infrastructure and embedding security into every phase of the DevOps lifecycle. Specialized in implementing security automation across public cloud environments (AWS, Azure, GCP) and establishing robust CI/CD pipelines using GitHub Actions with integrated security scanning, SAST/DAST, and compliance checks.</p>
+
+<p>My proven track record includes architecting zero-trust cloud infrastructures, automating security controls through Infrastructure as Code (IaC), and implementing shift-left security practices. I thrive in environments where I can bridge the gap between development, operations, and security teams while ensuring continuous compliance, vulnerability management, and threat detection across containerized and serverless architectures.</p>
 --
 
 - 🔭 I’m currently working on Creating Devops related tech resourses
